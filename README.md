@@ -46,17 +46,12 @@ A responsive healthcare landing page built using HTML, JavaScript, Tailwind CSS,
 
 Add some screenshots:
 
-<img src="images/home.png" alt="Trafalgar Home Page" width="700">
-
-<img src="images/service.png" alt="Trafalgar Service Page" width="700">
-
-<img src="images/services.png" alt="Trafalgar Services" width="700">
-<img src="images/apps.png" alt="Trafalgar App Page" width="700">
-
-<img src="images/article.png" alt="Trafalgar Article Page" width="700">
-
-<img src="images/about.png" alt="Trafalgar about Page" width="700">
-
+![Trafalgar Home Page](./images/home.png)
+![Trafalgar Service Page](./images/service.png)
+![Trafalgar Services](./images/services.png)
+![Trafalgar App Page](./images/apps.png)
+![Trafalgar Article Page](./images/article.png)
+![Trafalgar About Page](./images/about.png)
 
 
 

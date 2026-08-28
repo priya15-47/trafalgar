@@ -44,13 +44,16 @@ A responsive healthcare landing page built using HTML, JavaScript, Tailwind CSS,
 
 \- Modern UI design
 
-Add some screenshots:
-
 ![Trafalgar Home Page](./images/home.png)
+
 ![Trafalgar Service Page](./images/service.png)
+
 ![Trafalgar Services](./images/services.png)
+
 ![Trafalgar App Page](./images/apps.png)
+
 ![Trafalgar Article Page](./images/article.png)
+
 ![Trafalgar About Page](./images/about.png)
 
 
